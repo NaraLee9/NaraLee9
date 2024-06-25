@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&text=미래의%20데이터분석가%20이나라입니다.&fontSize=50&fontColor=black
+
 ## Hi there 👋
 
 
